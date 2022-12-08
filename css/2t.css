@@ -1,0 +1,22 @@
+table {
+    border: "3";
+    border-color: "#04B45F";
+    width: "600";
+}
+
+#info {
+    text-align: center;
+}
+
+#tablegreen {
+    align-items: center;
+    text-align: center;
+}
+.titulo {
+    text-align: center;
+    padding: 1.2%;
+}
+
+.texto {
+    text-align: center;
+}
